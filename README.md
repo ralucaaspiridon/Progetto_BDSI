@@ -1,5 +1,3 @@
-# Progetto_BDSI
-
 # ✈️ Progetto BDSI – Database Compagnia Aerea
 
 ## 📌 Descrizione
